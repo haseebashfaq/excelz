@@ -1,0 +1,1 @@
+[10-Feb-2019 16:02:14 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'PHPMailer/class.smtp.php' (include_path='.:/opt/php56/lib/php') in /home4/swu59btm/public_html/Excelzwebs/application/controllers/User.php on line 5
